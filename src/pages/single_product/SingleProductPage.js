@@ -94,7 +94,7 @@ export default function SingleProductPage() {
           listProducts={listProducts.listProducts}
         />
       </section>
-      <h2>{params}</h2>
+      {/* <h2>{params}</h2> */}
       <section id="newsletter" className="">
         <Newsletter />
       </section>
