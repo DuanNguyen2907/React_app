@@ -41,7 +41,7 @@ export default function ContactPage() {
 
             <li>
               <FontAwesomeIcon icon={faEnvelope} />
-              <p>tranlamiter.example@gmail.com</p>
+              <p>duan_dawn.example@gmail.com</p>
             </li>
 
             <li>
